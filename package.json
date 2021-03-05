@@ -1,0 +1,23 @@
+{
+  "name": "Atividade-BDPOO",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliocesar234/Atividade-BD-POO.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juliocesar234/Atividade-BD-POO/issues"
+  },
+  "homepage": "https://github.com/juliocesar234/Atividade-BD-POO#readme",
+  "dependencies": {
+    "sequelize": "^6.5.0"
+  }
+}
